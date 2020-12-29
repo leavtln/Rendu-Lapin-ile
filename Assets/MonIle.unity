@@ -275,7 +275,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   target: {fileID: 1914715653}
-  position_set: {x: -10, y: 5, z: -8}
+  position_set: {x: -15, y: 5, z: -8}
 --- !u!1001 &192706903
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1536,7 +1536,7 @@ PrefabInstance:
     - target: {fileID: 7372662190872012876, guid: 3bc7e4824117e084397910d600ecef20,
         type: 3}
       propertyPath: m_LocalRotation.y
-      value: -0.9396926
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7372662190872012876, guid: 3bc7e4824117e084397910d600ecef20,
         type: 3}
@@ -1546,7 +1546,7 @@ PrefabInstance:
     - target: {fileID: 7372662190872012876, guid: 3bc7e4824117e084397910d600ecef20,
         type: 3}
       propertyPath: m_LocalRotation.w
-      value: 0.34202018
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7372662190872012876, guid: 3bc7e4824117e084397910d600ecef20,
         type: 3}
@@ -1561,7 +1561,7 @@ PrefabInstance:
     - target: {fileID: 7372662190872012876, guid: 3bc7e4824117e084397910d600ecef20,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
-      value: -140
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7372662190872012876, guid: 3bc7e4824117e084397910d600ecef20,
         type: 3}
